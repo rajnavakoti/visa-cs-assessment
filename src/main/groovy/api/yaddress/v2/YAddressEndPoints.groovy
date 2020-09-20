@@ -2,6 +2,9 @@ package api.yaddress.v2
 
 import utils.configuration.Config
 
+/***
+ * YAddress API Endpoints
+ */
 class YAddressEndPoints {
     static String Y_ADDRESS_API_URL = Config.getYAddressAPIURL()
 

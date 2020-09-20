@@ -8,7 +8,7 @@
             <exclude name="Quarantined"/>
         </run>
     </groups>
-    <test name="API Tests" parallel="classes" thread-count="6">
+    <test name="API,GUI Tests" parallel="classes" thread-count="6">
         <packages>
             <package name="yaddress.api.*"/>
             <package name="yaddress.gui.*"/>
