@@ -5,9 +5,10 @@ This repository meant for trade visa-cs code challenge.
 **Note**: Project has some additional unused dictionaries and script files. These are added to give the skeleton view of the automation framework
 
 ## Short summary
-- As I don't posses the experience of automating web socket, So I choose API + web automation
-- I choose `Yahoo finance` for automation, they provide both API & web application and yahoo finance is closely related to trade republic business
-- The topic I selected is `Trending Tickers`
+- Dear visa-cs team, 
+  As asked, I have designed an automation framework for Yaddress API, keeping scalability in mind.
+  It is developed using Groovy-gradle. Please find the run instructions mentioned below.
+  I have detailed my thought process, as follows.
 
 ## Framework Approach
 - Followed the Industry standard layout for design

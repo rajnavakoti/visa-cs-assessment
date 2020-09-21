@@ -8,6 +8,9 @@ import org.testng.annotations.Test
 import utils.Groups
 import utils.dataProviders.AddressDataProvider
 
+/***
+ * This test class file covers: test cases for address /GET endpoint of the API. 'Groups' in the method argument specifies the level of test (sanity, regression, ...)
+ */
 class GetAddressTest {
     ValidatableResponse response
     GetAddressRequest getAddressRequest = new GetAddressRequest()
