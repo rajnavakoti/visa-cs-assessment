@@ -1,8 +1,8 @@
 # visa-cs-assessment
 
-This repository meant for trade visa-cs code challenge.
+This repository meant for visa-cs code challenge.
 
-**Note**: Project has some additional unused dictionaries and script files. These are added to give the skeleton view of the automation framework
+**Note**: Project has some additional unused dictionaries and script files. These are added to give the skeleton view of the automation framework.
 
 ## Short summary
 - Dear visa-cs team, 
@@ -66,8 +66,9 @@ This repository meant for trade visa-cs code challenge.
 - To clone and run the build from an IDE:
   1. `git clone https://github.com/rajnavakoti/visa-cs-assessment.git`
   2. open the project in any IDE
-  3. run build.gradle
-  4. or run full.xml/api.xml (/test/resources/suites)
+  3. run gradle clean test
+  4. or run build.gradle
+  5. or run full.xml/api.xml (/test/resources/suites)
   
 - Project is ready to run on jenkins and docker
 
